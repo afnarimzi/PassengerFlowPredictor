@@ -14,7 +14,7 @@ This project implements a time series forecasting model using a Long Short-Term 
 - Input: Past 12 months of passenger data
 - Output: Predicts the 13th month's passenger count
 
-## ⚙ Steps
+## Steps
 1. Load and preprocess the dataset
 2. Normalize passenger counts using MinMaxScaler
 3. Create time series sequences (12 input months → 1 output month)
